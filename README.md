@@ -9,45 +9,37 @@ Hi, I'm **Roman Makalov**, a professional **Full-Stack Web Developer** specializ
 ### 🛠️ My Tech Stack
 
 #### 🌐 Frontend & Mobile Development
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Flutter](https://shields.io)
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Sass](https://shields.io)
+![TailwindCSS](https://shields.io)
+![Redux](https://shields.io)
+![Next.js](https://shields.io)
 
 #### ⚙️ Backend & Analytics
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Kotlin](https://shields.io)
+![Java](https://shields.io)
+![NodeJS](https://shields.io)
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+![ClickHouse](https://shields.io)
+![Redis](https://shields.io)
+![Spring Boot](https://shields.io)
+![FastAPI](https://shields.io)
 
 #### 🧠 Artificial Intelligence (AI)
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Kimi AI](https://shields.io)
+![Claude AI](https://shields.io)
 
 #### 🛠️ Infrastructure & Tools
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+![Linux](https://shields.io)
+![Ubuntu](https://shields.io)
+![Docker](https://shields.io)
 
 ---
 
