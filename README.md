@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Roman Makalov**, a professional **Full-Stack Web Developer** and **AI/ML Automation Engineer** specializing in end-to-end **web coding**, data science pipelines, and intelligent agentic system architecture. I bridge the gap between complex **backend database logic**, high-performance **machine learning models**, and intuitive **frontend user interfaces** to build scalable, production-ready digital products.
+Hi, I'm **Roman Makalov**. I specialize as a professional **Full-Stack Web Developer & AI/ML Automation Engineer**, architecting high-performance digital ecosystems from scratch. My core expertise lies in seamlessly bridging robust backend architectures, advanced machine learning workflows, and intuitive, fluid client interfaces.
+
+As a dual-focused engineer, I combine end-to-end **web coding** proficiency with cutting-edge **data science pipelines** and **intelligent agentic systems**. By leveraging next-gen automated development tools, I significantly eliminate digital chaos, deliver production-ready B2B software solutions, and shift traditional technical paradigms at rapid startup speeds.
 
 ---
 
@@ -61,5 +63,5 @@ As an **AI-driven software engineer**, I orchestrate state-of-the-art **AI agent
 ---
 
 ### 📫 Connect with Me
-* **Telegram:** [@mak](https://t.me)
-* **Email:** maka@example.com
+* **Telegram:** [@roman_makalov](https://t.me) *(замените на ваш точный юзернейм)*
+* **Email:** roman.makalov@example.com *(замените на вашу рабочую почту)*
