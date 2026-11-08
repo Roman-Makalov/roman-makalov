@@ -17,6 +17,10 @@ Hi, I'm **Roman Makalov**, a professional **Full-Stack Web Developer** specializ
 * 🐘 **PostgreSQL** &emsp; 🍊 **ClickHouse** &emsp; 🔴 **Redis**
 * 🍃 **Spring Boot** &emsp; ⚡ **FastAPI**
 
+#### 🤖 Machine Learning & Data Science
+* 📊 **NumPy** &emsp; 🐼 **Pandas** &emsp; 🧮 **Scikit-Learn** &emsp; 🔥 **PyTorch**
+* 🧠 **TensorFlow** &emsp; 📈 **Matplotlib** &emsp; 🤗 **Hugging Face** &emsp; 🤖 **LangChain**
+
 #### 🧠 Artificial Intelligence (AI)
 * 🤖 **Kimi AI (K3.1 Pro)** &emsp; 🧠 **Claude 3.5 Sonnet**
 
