@@ -44,10 +44,9 @@ As an **AI-driven software engineer**, I don't just write code manually—I orch
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://vercel.app" alt="Roman Makalov GitHub Stats" height="150"/>
-<img src="https://herokuapp.com" alt="Commit Streak" height="150"/>
-</p>
+* 📈 **Code Activity:** 🟩 New developer account | Main repositories set to private for security.
+* ⚡ **Current Streak:** 🚀 Building foundational architecture for the analytics ecosystem.
+
 
 ---
 
