@@ -9,45 +9,19 @@ Hi, I'm **Roman Makalov**, a professional **Full-Stack Web Developer** specializ
 ### 🛠️ My Tech Stack
 
 #### 🌐 Frontend & Mobile Development
-<p align="left">
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Sass" />
-  <img src="https://shields.io" alt="TailwindCSS" />
-  <img src="https://shields.io" alt="Redux" />
-  <img src="https://shields.io" alt="Next.js" />
-</p>
+* 🎯 **Flutter** &emsp; ⚛️ **React** &emsp; 🔷 **TypeScript** &emsp; 🌐 **HTML5** &emsp; 🎨 **CSS3**
+* 🎀 **Sass** &emsp; 🌬️ **Tailwind CSS** &emsp; 🔄 **Redux** &emsp; 🖤 **Next.js**
 
 #### ⚙️ Backend & Analytics
-<p align="left">
-  <img src="https://shields.io" alt="Kotlin" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="ClickHouse" />
-  <img src="https://shields.io" alt="Redis" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="FastAPI" />
-</p>
+* ☕ **Kotlin** &emsp; ☕ **Java** &emsp; 🟢 **Node.js** &emsp; 🐍 **Python**
+* 🐘 **PostgreSQL** &emsp; 🍊 **ClickHouse** &emsp; 🔴 **Redis**
+* 🍃 **Spring Boot** &emsp; ⚡ **FastAPI**
 
 #### 🧠 Artificial Intelligence (AI)
-<p align="left">
-  <img src="https://shields.io" alt="Kimi AI" />
-  <img src="https://shields.io" alt="Claude AI" />
-</p>
+* 🤖 **Kimi AI (K3.1 Pro)** &emsp; 🧠 **Claude 3.5 Sonnet**
 
 #### 🛠️ Infrastructure & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Ubuntu" />
-  <img src="https://shields.io" alt="Docker" />
-</p>
+* 🗲 **Git** &emsp; 💻 **VS Code** &emsp; 🐧 **Linux** &emsp; 📦 **Ubuntu** &emsp; 🐳 **Docker**
 
 ---
 
