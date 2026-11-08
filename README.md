@@ -9,37 +9,45 @@ Hi, I'm **Roman Makalov**, a professional **Full-Stack Web Developer** specializ
 ### 🛠️ My Tech Stack
 
 #### 🌐 Frontend & Mobile Development
-![Flutter](https://shields.io)
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Sass](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Redux](https://shields.io)
-![Next.js](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Flutter" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Sass" />
+  <img src="https://shields.io" alt="TailwindCSS" />
+  <img src="https://shields.io" alt="Redux" />
+  <img src="https://shields.io" alt="Next.js" />
+</p>
 
 #### ⚙️ Backend & Analytics
-![Kotlin](https://shields.io)
-![Java](https://shields.io)
-![NodeJS](https://shields.io)
-![Python](https://shields.io)
-![PostgreSQL](https://shields.io)
-![ClickHouse](https://shields.io)
-![Redis](https://shields.io)
-![Spring Boot](https://shields.io)
-![FastAPI](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Kotlin" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="ClickHouse" />
+  <img src="https://shields.io" alt="Redis" />
+  <img src="https://shields.io" alt="Spring Boot" />
+  <img src="https://shields.io" alt="FastAPI" />
+</p>
 
 #### 🧠 Artificial Intelligence (AI)
-![Kimi AI](https://shields.io)
-![Claude AI](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Kimi AI" />
+  <img src="https://shields.io" alt="Claude AI" />
+</p>
 
 #### 🛠️ Infrastructure & Tools
-![Git](https://shields.io)
-![VS Code](https://shields.io)
-![Linux](https://shields.io)
-![Ubuntu](https://shields.io)
-![Docker](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Ubuntu" />
+  <img src="https://shields.io" alt="Docker" />
+</p>
 
 ---
 
